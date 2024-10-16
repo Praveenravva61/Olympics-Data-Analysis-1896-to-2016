@@ -87,7 +87,7 @@ if user_menu == "Overall Analysis":
 
   nations_over_time = Olympics_helpers.Participating_nations_over(athlets,'Event')
   fig =px.line(nations_over_time, x = 'Year', y = 'Event')
-  st.title('Events over time the Years')
+  st.title('Events over the Years')
   st.plotly_chart(fig)
 
   nations_over_time = Olympics_helpers.Participating_nations_over(athlets, 'region')

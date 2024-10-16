@@ -160,6 +160,7 @@ def Country_wise_Most_successful(athlets, country):
     # Select the top 15 athletes
     result = result.head(10)
     result = result.reset_index(drop = True)
+    result.index = result.index+1
     return result
 
 def weight_v_height(df,sport):
