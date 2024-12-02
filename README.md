@@ -89,8 +89,19 @@ Olympics-Data-Analysis-1896-to-2016/
 
 ## 📈 **App Demo**
 
-![App Screenshot](./visualizations/app_demo.png)  
-> _A snapshot of the interactive Streamlit app showcasing Olympic medal trends._
+![select year   country](https://github.com/user-attachments/assets/f8835541-1ee1-40df-9c68-b7508672fc4b)![Athelts over the time](https://github.com/user-attachments/assets/075b46d2-e716-41d7-9fd5-70423c25a1d1)
+![Events over the years](https://github.com/user-attachments/assets/28fb7178-d7fc-42a0-88fe-ef12295054da)
+![Medal Tally over the years](https://github.com/user-attachments/assets/117296ae-dec6-448f-bb7a-1fabc0a0bbd8)
+![Most sucessful athletes](https://github.com/user-attachments/assets/d7194af0-27ca-4791-937f-5761ac021568)
+![Overall analysis](https://github.com/user-attachments/assets/daca8436-cffa-4467-919b-08327ebef773)
+![Participating Nations over time](https://github.com/user-attachments/assets/7bc580a9-c81b-4644-9b52-1481443b4b8b)
+![Top 10 athelets of selected country](https://github.com/user-attachments/assets/eabc6aee-410a-4bf6-ba38-4486ff914e48)
+![first page](https://github.com/user-attachments/assets/87e18a02-9c69-42e2-88f2-9fd9c510013b)
+![heatmap of events](https://github.com/user-attachments/assets/0b1886bb-130a-41bb-b36c-5ca077717809)
+![height vs weight](https://github.com/user-attachments/assets/93839437-f449-43e2-be34-80a8f965aa2b)
+![men vs woment participation over the years](https://github.com/user-attachments/assets/e7fbf5e4-368b-4fd4-bde9-666fefadb9cb)
+
+
 
 ---
 
@@ -124,5 +135,5 @@ Feel free to fork the project and submit a pull request.
 ## 📧 **Contact**
 
 For any inquiries or collaborations:  
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
+- **Email**: praveen.ravva61@gmail.com 
+- **LinkedIn**: https://www.linkedin.com/in/praveen-ravva
